@@ -12,6 +12,8 @@ body {
 h1,
 h2,
 h3 {
+  display: flex
+  justify-content: space-between;
   font-family: "Playfair Display", Times, serif;
   text-align: center;
 }
